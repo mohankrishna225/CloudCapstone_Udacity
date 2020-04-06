@@ -1,6 +1,5 @@
 # Serverless Memories App
 
-Serverless 
 
 ## Functionality 
 
