@@ -4,9 +4,9 @@ Serverless
 
 ## Functionality 
 
-- The application allows users to create, update, delete diary items.
+- The application allows users to create, update, delete memory items.
 - The application allows users to upload a file. 
-- The application only displays items/Diaries for a logged in user.
+- The application only displays items/memories for a logged in user.
 - A user needs to authenticate in order to use an application
 
 ## Architecture
