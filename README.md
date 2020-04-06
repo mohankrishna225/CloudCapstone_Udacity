@@ -1,5 +1,7 @@
 # Serverless Memories App
 
+Github Repo Link: https://github.com/mohankrishna225/CloudCapstone_Udacity 
+
 <img src="screenshots/Serverless Deployed.png">
 <img src="screenshots/Memories.png">
           
