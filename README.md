@@ -1,5 +1,10 @@
 # Serverless Memories App
 
+<img src="screenshots/Serverless Deployed.png">
+<img src="screenshots/Memories.png>
+          
+<img src="screenshots/Post.png">    
+<img src="screenshots/Update Item.png">
 
 ## Functionality 
 
